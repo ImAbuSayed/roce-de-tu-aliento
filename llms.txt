@@ -1,4 +1,4 @@
-# Roce de tu aliento
+# Roce de tu aliento, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Roce de tu aliento |
+| **Title** | Roce de tu aliento, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-tu-aliento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roce de tu aliento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-tu-aliento/) |
+| **Get License** | [Get a Licensing Quote for Roce de tu aliento, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-tu-aliento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Vente nena acércate, la pared es el testigo
+> Tú me miras y yo sé, que esta noche estás conmigo
+> Con el roce de tu aliento, el fuego empieza a quemar
+> Esta noche en Barcelona nadie nos va a separar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `01a95c81402e41e9c81e279f3e19f973be16e92a1f4f561187bc9f8d19ce3c98` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
